@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color: #fafafa;
+    border-left: 5px solid #1C6C99;
+    padding: 10px;
+    border-radius: 4px;
+
+}
+.price{
+    margin-top: 5px;
+    padding: 5px;
+    background-color: #212529;
+    color: white;
+    border-radius: 4px;
+}
+
+header{
+    width: 100%;
+    margin-bottom: 10px;
+    color: #737F7F;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+header > img{
+    width: 30px;
+}
+
+.alert{
+    margin: 10px;
+}
